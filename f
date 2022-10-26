@@ -14,6 +14,4 @@
         assertEquals("Removing 1 student from list", 1, obj.sizeOfStudent());  
     }  
       
-    @Test  
-    public void removeAll() {  
-        obj.removeAll();  
+    
